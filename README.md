@@ -4,8 +4,6 @@ This project is a multi-service To-Do application designed to demonstrate contai
 
 The goal was to build a small application and deploy it using production-style DevOps practices.
 
----
-
 ## 🚀 Tech Stack
 
 - Spring Boot
@@ -14,9 +12,7 @@ The goal was to build a small application and deploy it using production-style D
 - GitHub Actions
 - AWS
 - Terraform
-
----
-
+  
 ## ✨ Features
 
 - To-Do CRUD functionality
@@ -24,8 +20,6 @@ The goal was to build a small application and deploy it using production-style D
 - Dockerized services
 - Automated CI/CD pipeline
 - Kubernetes deployments
-
----
 
 ## 📁 Project Structure
 
@@ -37,8 +31,6 @@ Docker configuration
 
 /k8s  
 Kubernetes manifests  
-
----
 
 ## 👨‍💻 Author
 
